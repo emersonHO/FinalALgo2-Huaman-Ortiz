@@ -3,16 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Emerson/OneDrive/Documentos/NetBeansProjects/ExamenFinalHuamanOrtiz/src/modelo/Producto.java</file>
-            <file>file:/C:/Users/Emerson/OneDrive/Documentos/NetBeansProjects/ExamenFinalHuamanOrtiz/src/modelo/Venta.java</file>
-            <file>file:/C:/Users/Emerson/OneDrive/Documentos/NetBeansProjects/ExamenFinalHuamanOrtiz/src/App.java</file>
-            <file>file:/C:/Users/Emerson/OneDrive/Documentos/NetBeansProjects/ExamenFinalHuamanOrtiz/src/modelo/VentaArreglo.java</file>
-            <file>file:/C:/Users/Emerson/OneDrive/Documentos/NetBeansProjects/ExamenFinalHuamanOrtiz/src/modelo/Trabajador.java</file>
-            <file>file:/C:/Users/Emerson/OneDrive/Documentos/NetBeansProjects/ExamenFinalHuamanOrtiz/src/modelo/Cliente.java</file>
-            <file>file:/C:/Users/Emerson/OneDrive/Documentos/NetBeansProjects/ExamenFinalHuamanOrtiz/src/modelo/Detalle.java</file>
-            <file>file:/C:/Users/Emerson/OneDrive/Documentos/NetBeansProjects/ExamenFinalHuamanOrtiz/src/modelo/Tienda.java</file>
-            <file>file:/C:/Users/Emerson/OneDrive/Documentos/NetBeansProjects/ExamenFinalHuamanOrtiz/src/modelo/Persona.java</file>
-            <file>file:/C:/Users/Emerson/OneDrive/Documentos/NetBeansProjects/ExamenFinalHuamanOrtiz/src/modelo/Categoria.java</file>
+            <file>file:/C:/Users/Emerson/OneDrive/Documentos/ExamenFinalHuamanOrtiz/src/modelo/VentaArreglo.java</file>
+            <file>file:/C:/Users/Emerson/OneDrive/Documentos/ExamenFinalHuamanOrtiz/src/modelo/Categoria.java</file>
+            <file>file:/C:/Users/Emerson/OneDrive/Documentos/ExamenFinalHuamanOrtiz/src/modelo/Tienda.java</file>
+            <file>file:/C:/Users/Emerson/OneDrive/Documentos/ExamenFinalHuamanOrtiz/src/modelo/Cliente.java</file>
+            <file>file:/C:/Users/Emerson/OneDrive/Documentos/ExamenFinalHuamanOrtiz/src/modelo/Trabajador.java</file>
+            <file>file:/C:/Users/Emerson/OneDrive/Documentos/ExamenFinalHuamanOrtiz/src/modelo/Detalle.java</file>
+            <file>file:/C:/Users/Emerson/OneDrive/Documentos/ExamenFinalHuamanOrtiz/src/modelo/Producto.java</file>
+            <file>file:/C:/Users/Emerson/OneDrive/Documentos/ExamenFinalHuamanOrtiz/src/modelo/Persona.java</file>
+            <file>file:/C:/Users/Emerson/OneDrive/Documentos/ExamenFinalHuamanOrtiz/src/modelo/Venta.java</file>
         </group>
     </open-files>
 </project-private>
