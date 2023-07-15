@@ -19,7 +19,8 @@ public class ControladorLogin {
         this.modelo = modelo;
         this.vista = vista;
         /**/
-
+    }
+    
     public void iniciar(){
         this.vista.setLocationRelativeTo(null);
         limpiarControles();
@@ -27,8 +28,8 @@ public class ControladorLogin {
     }
     
     public void limpiarControles(){
-        vista.txtClave.setText("");
-        vista.txtUsuario.setText("");   
+        vista.txtEmail.setText("");
+        vista.txtPassword.setText("");   
     }
 }
 
