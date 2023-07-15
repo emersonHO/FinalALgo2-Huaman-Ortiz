@@ -19,8 +19,17 @@ public class Persona {
         this.nacimiento = nacimiento;
         this.numDocumento = numDocumento;
     }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public String getPaterno() {
+        return paterno;
+    }
+
+    public String getMaterno() {
+        return materno;
+    }
     
 }
-
-
-
