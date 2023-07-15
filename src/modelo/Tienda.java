@@ -90,7 +90,6 @@ public class Tienda {
         return productosEncontrados;
     }
 
-    /*
     public Trabajador autenticar(String email, String password) {
         for (int i = 0; i < trabajadoresCont; i++) {
             if (trabajadores[i].getEmail().equals(email) && trabajadores[i].getPassword().equals(password)) {
@@ -98,6 +97,6 @@ public class Tienda {
             }
         }
         return null;
-    }*/
+    }
 }
 

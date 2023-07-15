@@ -15,9 +15,6 @@ public class Cliente extends Persona {
         this.celular = celular;
         this.dinero = dinero;
     }
-
-    
-
     
     public boolean pagar() {
         
